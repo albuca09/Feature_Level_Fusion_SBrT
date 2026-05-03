@@ -1,4 +1,5 @@
 Fusão de Sensores para Detecção e Classificação de Drones
+
 Este projeto explora o Drone Detection Dataset e implementa pipelines para preparação de dados, geração de anotações no formato YOLO, extração de atributos de imagem/áudio e avaliação de classificadores com fusão de sensores.
 Os sensores considerados são:
 IR: vídeo infravermelho;
