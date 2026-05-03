@@ -15,6 +15,7 @@ HELICOPTER
 ```
 ---
 1. Objetivo
+   
 O notebook `FUSAO.ipynb` tem quatro objetivos principais:
 Explorar a estrutura do dataset compactado em `.zip`;
 Organizar e resumir os arquivos por classe, modalidade e amostra;
@@ -22,6 +23,7 @@ Converter anotações de vídeo para o formato YOLO;
 Avaliar métodos de fusão de sensores para classificação binária e multiclasse.
 ---
 2. Estrutura geral do pipeline
+   
 O fluxo implementado no notebook é:
 ```text
 Drone-detection-dataset-master.zip
